@@ -1,3 +1,3 @@
 Bài tập lớn hệ điều hành:
-  Advanced scheduler
+  Advanced scheduler and
   System calls
